@@ -1,0 +1,28 @@
+.main-tables-container{
+ 
+    margin: 0 auto;
+}
+.main-product-detail{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 930px;
+    height: 100%;
+    margin: 0 auto;
+}
+.knowit .knowimage{
+    max-width: 100%;
+    width: 930px;
+    height: 800px ;
+}
+.plans-container--slider{
+    justify-content: center;
+    
+}
+.plans-container--slider{
+    overflow-x: unset;
+}
+footer section{
+    width: 90%;
+    max-width: 450px;
+}

@@ -1,0 +1,26 @@
+.main--exchange-container{
+   width: 100%;
+
+}
+.main--text{
+    max-width: 100%;
+}
+.header--title--container{
+    width: 100%;
+    
+}
+.main-product-detail{
+    width: 100%;
+    max-width: 100%;
+    /* display: flex;
+    flex-wrap: wrap;
+} */
+.currency-table--container{
+    width: 100%;
+}
+.main--exchange-container{
+    /* width: 100% */
+}
+.header--title--container{
+    width: 100%;
+}
